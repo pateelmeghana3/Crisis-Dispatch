@@ -415,53 +415,6 @@ crisis-dispatch/
 └── tests/
     └── test_csv.py                 # Dataset validation tests
 ```
-
-<br/>
-
----
-
-<br/>
-
-## Why This Project Stands Out
-
-| Dimension | What We Built |
-|:----------|:-------------|
-| **Technical Depth** | LangGraph multi-agent state machine with parallel fan-out/fan-in — not a basic LLM API wrapper |
-| **Real-World Data** | 40,000+ actual government-sourced stations — zero mock data |
-| **Dual-LLM Pipeline** | Structured triage followed by capability-aware matchmaking — two distinct reasoning steps |
-| **Full-Stack Delivery** | Four production-quality UI pages with maps, live feeds, PDF export, and responsive layouts |
-| **Sub-3s Latency** | Groq inference + parallel dispatch = response times suitable for genuine emergency use |
-| **Social Impact** | Directly applicable to NDMA, municipal fire departments, and hospital networks across India |
-
-<br/>
-
----
-
-<br/>
-
-## Roadmap
-
-- [ ] WebSocket push notifications to replace polling
-- [ ] Progressive Web App (PWA) with offline incident caching
-- [ ] Multilingual voice input — Hindi, Gujarati, Tamil, and more
-- [ ] AI-powered image analysis for uploaded evidence (damage assessment)
-- [ ] Inter-agency resource sharing and coordination protocol
-- [ ] Historical analytics dashboard with trend analysis
-
-<br/>
-
----
-
-<br/>
-
-## Team
-
-Built at **GDG Hackathon 2026**.
-
-<br/>
-
----
-
 <p align="center">
   <sub>
     <strong>Crisis Dispatch</strong> — Because the difference between life and death is measured in seconds, not minutes.
